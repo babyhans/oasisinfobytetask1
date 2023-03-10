@@ -1,0 +1,36 @@
+h1
+{
+    font-size: 70px;
+    color: burlywood;
+}
+#box
+{
+    margin: auto;
+    margin-top: 30px;
+    height: 300px;
+    width: 600px;
+    background: linear-gradient(#7982ed,#4d56b2); 
+}
+#in
+{
+    margin: auto;
+    padding: 5px;
+    font-weight: bold;
+}
+#ans
+{
+    
+    margin:60px auto auto auto ;
+    height: 30px;
+    width: 100px;
+    background:linear-gradient(rgb(254, 100, 100),red );
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+#option
+{
+    margin-top: 30px;
+    font-size: 25px;
+}
